@@ -1,6 +1,6 @@
-print("Contando de 0 a 9:")
+print("fazendo a tabuada de 10")
 
 for i in range(10):
-    print(i)
+    print(f"10 x {i + 1} = {10 * (i + 1)}")
     
-print("Contagem concluída!")
+print("Tabuada concluída!")
